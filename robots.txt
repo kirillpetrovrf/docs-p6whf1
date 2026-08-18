@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-iy8sg2.salamcuan.online/sitemap.xml
